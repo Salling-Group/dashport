@@ -104,4 +104,4 @@ done
 
 ### Disclaimer
 
-This is software is not well tested and bugs may occur. Save copies of dashboards before experimenting with cloning etc. Report bugs.
+This is software is not tested outside of my available tenants and bugs may occur. Save copies of dashboards before experimenting with cloning etc. Report bugs.
